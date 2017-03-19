@@ -1,6 +1,6 @@
 # Visualising-Facial-Expression-Changes
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GKalliatakis/Visualising-Facial-Expression-Changes/master/chart.png?raw=true"/><br>
+  <img src="https://raw.githubusercontent.com/GKalliatakis/Visualising-Facial-Expression-Changes/master/FER_chart.png?raw=true"/><br>
 </p>
 
 
