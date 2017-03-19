@@ -1,7 +1,8 @@
 # Visualising-Facial-Expression-Changes
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GKalliatakis/Visualising-Facial-Expression-Changes/master/chart.png?raw=true"/><br>
+  <img src="https://raw.githubusercontent.com/GKalliatakis/Visualising-Facial-Expression-Changes/blob/master/chart.png?raw=true"/><br>
 </p>
+
 
 Emotion recognition via facial expressions (ERFE) wis utilised in order to complete the process of recognising four universal dominant facial expressions (happiness, anger, sadness and surprise).
 
